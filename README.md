@@ -10,7 +10,7 @@ I'm using this space as a learning journal and a place to share projects as I co
 
 Some projects may be polished and complete, while others may be experiments or works in progress.
 
-## Areas of Exploration
+## Topics
 
 I'm interested in learning and experimenting with:
 
